@@ -6,6 +6,7 @@
 
     <ion-button (click)="mostraForm()" slot="end">
       <ion-icon name="add-circle-outline" aria-hidden="true"></ion-icon>
+      Adicionar produto
     </ion-button>
 
   </ion-toolbar>
@@ -14,7 +15,7 @@
 <ion-content [fullscreen]="true">
   <ion-header collapse="condense">
     <ion-toolbar>
-      <ion-title slot="start" size="large">Produtos</ion-title>
+      <ion-title slot="start" size="large">Estoque de Supermercado</ion-title>
       
     </ion-toolbar>
     
@@ -37,7 +38,7 @@
       
      
       <ion-item >
-        <ion-label position="stacked">urlImagem</ion-label>
+        <ion-label position="stacked">URL da Imagem</ion-label>
         <ion-input  [(ngModel)]="urlImagem" type="text"></ion-input>
       </ion-item>
       <ion-item>

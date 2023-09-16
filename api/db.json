@@ -1,0 +1,44 @@
+{
+  "produtos": [
+    {
+      "nome": "Feijão",
+      "categoria": "Alimentos",
+      "quantidade": 7000,
+      "urlImagem": "https://samsclub.vtexassets.com/arquivos/ids/156654/Feijao-Carioca-Tipo-1-Kicaldo-1Kg.jpg?v=637430325357630000",
+      "data": "16-37-2023",
+      "id": "1"
+    },
+    {
+      "nome": "Brinquedo Infantil Maxx Trator Rural ",
+      "categoria": "Brinquedos",
+      "quantidade": 578,
+      "urlImagem": "https://www.lojasararaazul.com.br/arquivos/PRODUTOS/6541596314938204340/1_G_Brinquedo-Infantil-Maxx-Trator-Rural-Criana-.jpg",
+      "data": "14-09-2023",
+      "id": "2"
+    },
+    {
+      "nome": "Sabonete barra NIVEA",
+      "categoria": "Higiene pessoal",
+      "quantidade": 3782,
+      "urlImagem": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/650394-1000-1000/Nivea-Sabonete-Barra-Soft-Milk-Box-90g-Pacheco-570265-5.jpg?v=637448002021270000",
+      "data": "12-10-2023",
+      "id": 3
+    },
+    {
+      "nome": "Vassoura multiuso Bellinha São Francisco – Ultrapack",
+      "categoria": "Limpeza",
+      "quantidade": 2785,
+      "urlImagem": "https://www.ultrapack.com.br/wp-content/uploads/2020/08/Vassoura-Bellinha-SF-verde.jpg",
+      "data": "05-07-2023",
+      "id": 4
+    },
+    {
+      "nome": "Notebook Gamer Acer Nitro 5 AN515-57-585H",
+      "categoria": "Eletrônicos",
+      "quantidade": 1000,
+      "urlImagem": "https://static.nagem.com.br/util/artefatos/produtos/m/n/832801681738653/578452_1.jpg",
+      "data": "21-08-2023",
+      "id": 5
+    }
+  ]
+}
