@@ -1,4 +1,4 @@
-# CRUD de um Sistema de Estoque de Produtos
+# Sistema de Estoque de Produtos
 
 Este é um projeto de CRUD integrado com o Json Server, desenvolvido utilizando as seguintes tecnologias: Ionic, Angular, TypeScript e Json Server.
 
@@ -35,9 +35,3 @@ Agora você pode acessar a aplicação localmente em `http://localhost:8100`.
 ## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-
